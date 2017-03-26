@@ -7,7 +7,7 @@ There are many CSS animation works that I practiced in this repository.
 
 Work | description | Demo
 --- | --- | ---
-Map Notification  | 地圖通知 | [Map Notification](https://arcobalenoi27.github.io/css-animation-practice/map-notification/)
+Map Notification  | A wave marker on the map. | [Map Notification](https://arcobalenoi27.github.io/css-animation-practice/map-notification/)
 
 ### P.S.
 
